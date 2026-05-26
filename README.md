@@ -1,6 +1,6 @@
 # Banking Ledger Simulator
 
-A C++ console application that simulates a banking ledger with support for single, shared, and dual account types — built as a university assignment for Programming Fundamentals at The Hong Kong Polytechnic University.
+A C++ console application that simulates a banking ledger with support for single, shared, and dual account types.
 
 ---
 
@@ -86,11 +86,4 @@ g++ main.cpp -o ledger
 
 > Requires C++11 or later. The `_CRT_SECURE_NO_WARNINGS` define suppresses MSVC warnings for `strcpy` — safe to remove on non-Windows compilers.
 
----
 
-## Project Context
-
-- **Course:** Programming Fundamentals
-- **University:** The Hong Kong Polytechnic University
-- **Semester:** Spring 2026
-- **Language:** C++
